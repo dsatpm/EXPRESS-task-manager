@@ -1,1 +1,22 @@
-[{"title":"asffff","text":"ffww","id":"06ce45c5-cbae-4bc8-9fc8-0db7dbc1ced7"}]
+[
+	{
+		"title": "HEY COOL A NEW NOTE",
+		"text": "AIN'T THIS SOME SHIT?",
+		"id": "f8f2bb34-2985-4ddf-8cf2-0565c1a26a1c"
+	},
+	{
+		"title": "NOTE NOTE NOTE NOTE",
+		"text": "BLAH BLAH BLAH BLAH BLAH",
+		"id": "d5d53c09-693e-4b75-a20e-f6eae33d05f3"
+	},
+	{
+		"title": "WAIT AN EVEN NEWER ONE???",
+		"text": "OHHHHHH SHIIIIIIIIT",
+		"id": "0edd3487-383e-455e-8ca1-2022576ba20d"
+	},
+	{
+		"title": "lower case note",
+		"text": "this one is in lower case",
+		"id": "8a38a3d5-406e-40f1-bbf8-67713ebbf1c5"
+	}
+]
