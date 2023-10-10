@@ -1,6 +1,6 @@
 # Express.js Note Taker
 
-This application is a note taker and manager using Express.js on the back end and JavaScript, HTML, and CSS on the front end. It uses JSON to format, write, and delete new tasks which is reflected onto the notes.html file. It will also save the tasks to the page even if the page is refreshed or reloaded.
+This application is a note taker and manager using Express.js on the back end and JavaScript, HTML, and CSS on the front end. It uses JSON to format, write, and delete new tasks which is reflected onto the notes.html file. It will also save the tasks to the page even if the page is refreshed or reloaded. You can view the deployed project at [Heroku](https://note-taker-jjh-7c76d93cae0d.herokuapp.com/).
 
   - Using Express.js was very challenging and rewarding
   - Figuring out how to delete entries was particularly challenging
