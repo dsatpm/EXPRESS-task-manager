@@ -15,7 +15,7 @@ There are no installation requirements to run this application. All of the work 
 ## Usage
 
 The usage of this application is pretty straight-forward. Open `index.html`, add a new note title and a note text, click save, and BOOM, you have used the app. Below is an image of what the finished project looks like <br>
-![demo](./images/demo-ss.png)
+![demo](./public/assets/images/demo-ss.png)
 
 
 ## Credits
